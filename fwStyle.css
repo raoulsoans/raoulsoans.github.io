@@ -7,7 +7,17 @@ body{
 }
 
 ul{
-	font-family:'Impact', sans-serif;
-	background-image: url("http://www.hot1029.com/wp-content/uploads/2017/04/kendrick-lamar-6.jpg");
 	
+	
+	
+}
+
+.nav{
+	font-family:'Impact', sans-serif;
+	text-align:center;
+	background-image: url("file://C:/Users/RaoulSoans/html_workspace/39973309-seattle-wallpapers.jpg");
+}
+
+#Nav{
+	list-style-type: none;
 }
